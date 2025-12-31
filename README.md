@@ -26,9 +26,7 @@ The simulation focuses on understanding trends and qualitative behavior rather t
 ## Tools Used
 - Python
 - NumPy
-- Pandas
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Results
